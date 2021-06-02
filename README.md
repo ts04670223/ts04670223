@@ -6,4 +6,3 @@
 [![](https://raw.githubusercontent.com/ts04670223/johny/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ts04670223/johny/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
